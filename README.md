@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/abinanthana005/Leetcode-Problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/abinanthana005/Leetcode-Problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
 |  |
 | ------- |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/abinanthana005/Leetcode-Problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Simulation
+|  |
+| ------- |
+| [3925-concatenate-array-with-reverse](https://github.com/abinanthana005/Leetcode-Problems/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
