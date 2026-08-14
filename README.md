@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/abinanthana005/Leetcode-Problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/abinanthana005/Leetcode-Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/abinanthana005/Leetcode-Problems/tree/master/3925-concatenate-array-with-reverse) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/abinanthana005/Leetcode-Problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Graph Theory
 |  |
