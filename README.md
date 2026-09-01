@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2942-find-words-containing-character](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2942-find-words-containing-character) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2942-find-words-containing-character) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/abinanthana005/Leetcode-Problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
