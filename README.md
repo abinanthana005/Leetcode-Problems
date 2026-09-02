@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2574-left-and-right-sum-differences](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2942-find-words-containing-character) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/abinanthana005/Leetcode-Problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abinanthana005/Leetcode-Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3794-reverse-string-prefix](https://github.com/abinanthana005/Leetcode-Problems/tree/master/3794-reverse-string-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
