@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2942-find-words-containing-character) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/abinanthana005/Leetcode-Problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abinanthana005/Leetcode-Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -130,9 +132,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/abinanthana005/Leetcode-Problems/tree/master/3794-reverse-string-prefix) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
+## Binary Search
+|  |
+| ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
