@@ -1,0 +1,17 @@
+import java.util.HashSet;
+import java.util.Set;
+
+class Solution {
+    public int arithmeticTriplets(int[] nums, int diff) {
+        Set<Integer> set = new HashSet<>();
+        int count = 0;
+        for (int num : nums) {
+            if (set.contains(num - diff) && set.contains(num - 2 * diff)) {
+                count++;
+            }
+            set.add(num);
+        }
+        
+        return count;
+    }
+}
