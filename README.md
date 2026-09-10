@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1512-number-of-good-pairs](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1534-count-good-triplets) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -177,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1757-recyclable-and-low-fat-products) |
+## Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
