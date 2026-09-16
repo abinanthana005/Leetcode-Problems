@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2942-find-words-containing-character) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/abinanthana005/Leetcode-Problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3110-score-of-a-string](https://github.com/abinanthana005/Leetcode-Problems/tree/master/3110-score-of-a-string) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/abinanthana005/Leetcode-Problems/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/abinanthana005/Leetcode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/abinanthana005/Leetcode-Problems/tree/master/3794-reverse-string-prefix) |
