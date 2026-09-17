@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/abinanthana005/Leetcode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abinanthana005/Leetcode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abinanthana005/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
+| [3945-digit-frequency-score](https://github.com/abinanthana005/Leetcode-Problems/tree/master/3945-digit-frequency-score) |
 ## Backtracking
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/abinanthana005/Leetcode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/abinanthana005/Leetcode-Problems/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/abinanthana005/Leetcode-Problems/tree/master/3731-find-missing-elements) |
+| [3945-digit-frequency-score](https://github.com/abinanthana005/Leetcode-Problems/tree/master/3945-digit-frequency-score) |
 ## Counting
 |  |
 | ------- |
