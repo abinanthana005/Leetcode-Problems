@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0999-available-captures-for-rook](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0999-available-captures-for-rook) |
 | [1266-minimum-time-visiting-all-points](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1389-create-target-array-in-the-given-order](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0999-available-captures-for-rook](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0999-available-captures-for-rook) |
 | [1389-create-target-array-in-the-given-order](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0999-available-captures-for-rook](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0999-available-captures-for-rook) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2373-largest-local-values-in-a-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/abinanthana005/Leetcode-Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
