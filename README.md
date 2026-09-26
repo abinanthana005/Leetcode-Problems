@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2325-decode-the-message](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2325-decode-the-message) |
 | [2942-find-words-containing-character](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2942-find-words-containing-character) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/abinanthana005/Leetcode-Problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3110-score-of-a-string](https://github.com/abinanthana005/Leetcode-Problems/tree/master/3110-score-of-a-string) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
+| [2325-decode-the-message](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2325-decode-the-message) |
 | [2367-number-of-arithmetic-triplets](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [3146-permutation-difference-between-two-strings](https://github.com/abinanthana005/Leetcode-Problems/tree/master/3146-permutation-difference-between-two-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/abinanthana005/Leetcode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
