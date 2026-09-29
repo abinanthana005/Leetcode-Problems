@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/abinanthana005/Leetcode-Problems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1534-count-good-triplets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2367-number-of-arithmetic-triplets](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2367-number-of-arithmetic-triplets) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/abinanthana005/Leetcode-Problems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Sorting
 |  |
 | ------- |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/abinanthana005/Leetcode-Problems/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/abinanthana005/Leetcode-Problems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 <!---LeetCode Topics End-->
