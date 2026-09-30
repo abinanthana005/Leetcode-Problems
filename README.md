@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
+| [1323-maximum-69-number](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1323-maximum-69-number](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1323-maximum-69-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Counting Sort
