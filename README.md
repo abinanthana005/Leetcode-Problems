@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0999-available-captures-for-rook](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0999-available-captures-for-rook) |
 | [1266-minimum-time-visiting-all-points](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0999-available-captures-for-rook](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0999-available-captures-for-rook) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2373-largest-local-values-in-a-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/abinanthana005/Leetcode-Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
