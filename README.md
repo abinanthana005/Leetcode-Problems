@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 | [1720-decode-xored-array](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -255,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
