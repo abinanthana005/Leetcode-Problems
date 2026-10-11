@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1534-count-good-triplets) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1656-design-an-ordered-stream](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1656-design-an-ordered-stream) |
 | [1720-decode-xored-array](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
+| [1656-design-an-ordered-stream](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1656-design-an-ordered-stream) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2325-decode-the-message](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2325-decode-the-message) |
 | [2367-number-of-arithmetic-triplets](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2367-number-of-arithmetic-triplets) |
@@ -261,4 +263,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
+## Design
+|  |
+| ------- |
+| [1656-design-an-ordered-stream](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1656-design-an-ordered-stream) |
+## Data Stream
+|  |
+| ------- |
+| [1656-design-an-ordered-stream](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1656-design-an-ordered-stream) |
 <!---LeetCode Topics End-->
