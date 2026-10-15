@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2367-number-of-arithmetic-triplets](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2367-number-of-arithmetic-triplets) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1859-sorting-the-sentence](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1859-sorting-the-sentence) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2418-sort-the-people](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
