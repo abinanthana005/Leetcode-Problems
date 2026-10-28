@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1859-sorting-the-sentence](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1859-sorting-the-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0700-search-in-a-binary-search-tree) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Search Tree
 |  |
@@ -276,10 +278,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0700-search-in-a-binary-search-tree) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Breadth-First Search
 |  |
