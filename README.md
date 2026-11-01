@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0046-permutations) |
 | [0283-move-zeroes](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0999-available-captures-for-rook](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0999-available-captures-for-rook) |
 | [1266-minimum-time-visiting-all-points](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0046-permutations) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
