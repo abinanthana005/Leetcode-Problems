@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0046-permutations) |
 | [0283-move-zeroes](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0654-maximum-binary-tree](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0654-maximum-binary-tree) |
 | [0999-available-captures-for-rook](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0999-available-captures-for-rook) |
 | [1266-minimum-time-visiting-all-points](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -253,10 +254,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0654-maximum-binary-tree) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0654-maximum-binary-tree) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Sliding Window
 |  |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0938-range-sum-of-bst) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1028-recover-a-tree-from-preorder-traversal) |
@@ -281,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0938-range-sum-of-bst) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1028-recover-a-tree-from-preorder-traversal) |
@@ -299,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
+| [0654-maximum-binary-tree](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0654-maximum-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -315,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2396-strictly-palindromic-number) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
