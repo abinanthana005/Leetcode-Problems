@@ -308,10 +308,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0933-number-of-recent-calls) |
 | [1656-design-an-ordered-stream](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1656-design-an-ordered-stream) |
 ## Data Stream
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0933-number-of-recent-calls) |
 | [1656-design-an-ordered-stream](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1656-design-an-ordered-stream) |
 ## Bubble Sort
 |  |
@@ -325,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0654-maximum-binary-tree) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
