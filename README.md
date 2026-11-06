@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0046-permutations) |
 | [0283-move-zeroes](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0654-maximum-binary-tree](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0654-maximum-binary-tree) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0046-permutations) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
