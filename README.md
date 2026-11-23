@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/abinanthana005/Leetcode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -333,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0933-number-of-recent-calls) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
