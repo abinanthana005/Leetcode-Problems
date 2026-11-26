@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0182-duplicate-emails) |
 | [0627-swap-sex-of-employees](https://github.com/abinanthana005/Leetcode-Problems/tree/master/0627-swap-sex-of-employees) |
 | [1757-recyclable-and-low-fat-products](https://github.com/abinanthana005/Leetcode-Problems/tree/master/1757-recyclable-and-low-fat-products) |
 ## Stack
